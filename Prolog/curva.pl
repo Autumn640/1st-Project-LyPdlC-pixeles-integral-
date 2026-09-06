@@ -1,7 +1,6 @@
 % ============================================================
 % ST0244 - Practica I: Del pixel a la integral
 % Parte II - PROLOG
-% Autor: (completar con nombres del equipo)
 %
 % Enfoque: el problema se expresa como un conjunto de RELACIONES
 % (imagen, columna X, altura) y (imagen, area), no como una
