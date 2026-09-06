@@ -6,9 +6,8 @@
 
 ## Integrantes del equipo
 
-- Nombre 1
-- Nombre 2
-- (agregar los nombres completos de todo el equipo)
+- Jerónimo Abad Hernandez
+- Leonardo José Valencia Correa
 
 ## Entorno de desarrollo
 
