@@ -1,0 +1,13 @@
+# Haskell build artifacts
+*.hi
+*.o
+programa
+programa.exe
+dist-newstyle/
+
+# IDE
+.idea/
+*.iml
+
+# Prolog
+*.qlf
